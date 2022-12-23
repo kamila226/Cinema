@@ -9,7 +9,7 @@ public class Cinema {
         int choice = scan.nextInt();
         return choice;
     }
-	//comment
+	
 	public static void showSeats(int numRows, int numCols, String[][] seats) {
         
 		System.out.println("\nCinema:");
